@@ -43,3 +43,4 @@ X-Forwarded-Port: 8443
 X-Forwarded-Scheme: http
 X-Forwarded-Scheme: https
 X-Original-URL: /invalid
+X-Forwarded-Host: evil.com
