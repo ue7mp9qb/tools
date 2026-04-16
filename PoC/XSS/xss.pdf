@@ -10,7 +10,7 @@ endobj
 <</AA
   <</O
     <</JS
-      (app.console.log(null))
+      (app.alert(null))
       /S /JavaScript>>>
   /Parent 2 0 R /Type /Page>>
 endobj
