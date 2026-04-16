@@ -10,7 +10,7 @@ endobj
 <</AA
   <</O
     <</JS
-      (app.alert(null))
+      (app.alert(1))
       /S /JavaScript>>>
   /Parent 2 0 R /Type /Page>>
 endobj
