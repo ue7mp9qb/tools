@@ -1,6 +1,2 @@
-size
-limit
-page
-pageNo
-pageNum
-pageSize
+size=1&limit=1&p=1&page=1&pageNo=1&page_no=1&pageNum=1&page_num=1&pageSize=1&page_size=1
+{"size":1,"limit":1,"p":1,"page":1,"pageNo":1,"page_no":1,"pageNum":1,"page_num":1,"pageSize":1,"page_size":1}
